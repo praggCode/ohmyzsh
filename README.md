@@ -157,7 +157,7 @@ _Note that the plugins are separated by whitespace (spaces, tabs, new lines...).
 them or it will break._
 
 #### Using Plugins
-
+hgcufou;vc6pv79docytsct8utfcp9;l vbib
 Each built-in plugin includes a **README**, documenting it. This README should show the aliases (if the plugin
 adds any) and extra goodies that are included in that particular plugin.
 
